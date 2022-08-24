@@ -1,0 +1,21 @@
+{
+    "project_name": "RemoteGame",
+    "project_id": "{388C33C2-44F3-4C3A-86A4-4AD95216482B}",
+    "origin": "The primary repo for RemoteGame goes here: i.e. http://www.mydomain.com",
+    "origin_uri": "https://github.com/AMZN-Phil/RemoteO3DEProject.git",
+    "license": "What license RemoteGame uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "RemoteGame",
+    "summary": "A short description of RemoteGame.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "RemoteGame"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "RemoteGame"
+}

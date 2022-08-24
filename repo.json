@@ -1,0 +1,11 @@
+{
+    "repo_name":"WF1 Git Test Source",
+    "origin":"WF1 Walkthrough",
+    "repo_uri": "https://github.com/Philibob/RemoteProject.git",
+    "summary": "Repository for testing remote projects.",
+    "additional_info": "",
+    "projects": [
+        "https://github.com/AMZN-Phil/RemoteO3DEProject.git"
+    ]
+
+}
