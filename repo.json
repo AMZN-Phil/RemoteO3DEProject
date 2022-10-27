@@ -5,7 +5,15 @@
     "summary": "Repository for testing remote projects.",
     "additional_info": "",
     "projects": [
-        "https://github.com/AMZN-Phil/RemoteO3DEProject.git"
+        {
+            "Source": "https://github.com/AMZN-Phil/RemoteO3DEProject.git",
+            "Dependencies": [
+                {
+                    "Source": "https://github.com/AMZN-Phil/TestGem1.git",
+                    "ObjectName": "TestGem1"
+                }
+            ]
+        }
     ]
 
 }
